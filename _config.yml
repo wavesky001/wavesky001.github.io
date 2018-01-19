@@ -1,1 +1,4 @@
 theme: jekyll-theme-cayman
+markdown: redcarpet
+baseurl: /wavesky001.github.io
+exclude: ['README.md']
